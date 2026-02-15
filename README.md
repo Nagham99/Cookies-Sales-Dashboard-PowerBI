@@ -2,6 +2,16 @@
 
 ## 📌 Project Overview
 An interactive Sales Dashboard built using Power BI to analyze cookie sales performance across products, customers, cities, and time.
+---
+
+## 📷 Dashboard Preview
+![Dashboard Home](images/cookies1.png)
+
+![Dashboard Overview](images/cookies2.png)
+
+![Sales Trends](images/cookies3.png)
+
+![Product Analysis](images/cookies4.png)
 
 ---
 
@@ -57,17 +67,6 @@ Top Customers:
 - Interactive Visualizations
 - KPI Cards
 - Filters & Slicers
-
----
-
-## 📷 Dashboard Preview
-![Dashboard Home](images/cookies1.png)
-
-![Dashboard Overview](images/cookies2.png)
-
-![Sales Trends](images/cookies3.png)
-
-![Product Analysis](images/cookies4.png)
 
 ---
 
