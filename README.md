@@ -61,12 +61,13 @@ Top Customers:
 ---
 
 ## 📷 Dashboard Preview
+![Dashboard Home](images/cookies1.png)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/cookies2.png)
 
-![Sales Trends](images/sales_trends.png)
+![Sales Trends](images/cookies3.png)
 
-![Product Analysis](images/product_analysis.png)
+![Product Analysis](images/cookies4.png)
 
 ---
 
